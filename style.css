@@ -1,0 +1,62 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    margin-left: 40px;
+    margin-top: 15px;
+    display: flex;
+
+}
+.list{
+    display: flex;
+    list-style: none;
+    margin-left: 30px;
+   
+}
+
+.list-item{
+
+margin-right: 25px;
+margin-top: 8px;
+}
+.list-item-active{
+    font-weight: bolder;
+    margin-top: 8px;
+    margin-right: 20px;
+}
+.nav-button{
+    padding: 1.2em 2.8em;
+    border-radius: 15px;
+    background-color: #5009f7;
+    color: white;
+    font-weight: bolder;
+    border-color: #5009f7;
+}
+.button-group{
+    margin-left: 450px;
+    margin-top: 10px;
+}
+
+    
+.banner-container{
+    margin-left: 40px;
+    display: flex;
+    margin-top: 40px;
+}
+.banner-container h1{
+    font-size: 55px;
+    font-weight: bolder;
+}
+.banner-container span{
+    color: blue;
+}
+
+.banner-container p{
+    font-size: medium;
+}
+.banner-container button{
+    margin-top: 60px;
+}
+.boy{
+    width: 100%;
+}
